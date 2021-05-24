@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="677c6883-9673-4057-9b45-234c4a7407f7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1rhPeATpECS0DnNAwlc9wDKPpMK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="677c6883-9673-4057-9b45-234c4a7407f7" name="Default Changelist" comment="" />
+      <created>1619425440273</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1619425440273</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Le boxplot du prof">
+      <created>1621845808458</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1621845808458</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Le boxplot du prof">
+      <created>1621849760848</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1621849760848</updated>
+    </task>
+    <task id="LOCAL-00003" summary="NE TOUCHEZ PAS A LA QUESTION 1">
+      <created>1621850184036</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1621850184036</updated>
+    </task>
+    <task id="LOCAL-00004" summary="NE TOUCHEZ PAS A LA QUESTION 1">
+      <created>1621850263506</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1621850263506</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Courbe théorique en pointillés">
+      <created>1621859432599</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1621859432599</updated>
+    </task>
+    <task id="LOCAL-00006" summary="FINITO">
+      <created>1621868861144</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1621868861144</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Titre">
+      <created>1621869237276</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1621869237276</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Le boxplot du prof" />
+    <MESSAGE value="NE TOUCHEZ PAS A LA QUESTION 1" />
+    <MESSAGE value="Courbe théorique en pointillés" />
+    <MESSAGE value="FINITO" />
+    <MESSAGE value="Titre" />
+    <option name="LAST_COMMIT_MESSAGE" value="Titre" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="855" y="79" key="CommitChangelistDialog2" timestamp="1621869237046">
+      <screen x="0" y="23" width="1680" height="978" />
+    </state>
+    <state x="855" y="79" key="CommitChangelistDialog2/0.23.1680.975@0.23.1680.975" timestamp="1621845808327" />
+    <state x="855" y="79" key="CommitChangelistDialog2/0.23.1680.977@0.23.1680.977" timestamp="1621868860889" />
+    <state x="855" y="79" key="CommitChangelistDialog2/0.23.1680.978@0.23.1680.978" timestamp="1621869237046" />
+    <state x="880" y="243" key="Vcs.Push.Dialog.v2" timestamp="1621869241330">
+      <screen x="0" y="23" width="1680" height="978" />
+    </state>
+    <state x="880" y="243" key="Vcs.Push.Dialog.v2/0.23.1680.975@0.23.1680.975" timestamp="1621845811939" />
+    <state x="880" y="243" key="Vcs.Push.Dialog.v2/0.23.1680.977@0.23.1680.977" timestamp="1621868863471" />
+    <state x="880" y="243" key="Vcs.Push.Dialog.v2/0.23.1680.978@0.23.1680.978" timestamp="1621869241330" />
+    <state x="1081" y="426" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1621862747156">
+      <screen x="0" y="23" width="1680" height="977" />
+    </state>
+    <state x="1081" y="424" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1680.973@0.23.1680.973" timestamp="1621844941523" />
+    <state x="1081" y="426" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1680.977@0.23.1680.977" timestamp="1621862747156" />
+  </component>
+</project>
